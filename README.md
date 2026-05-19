@@ -23,6 +23,8 @@
 </div>
 </div>
 
+[简体中文](README-zh-CN.md)
+
 # Awesome DESIGN.md
 
 Copy a DESIGN.md into your project, tell your AI agent "build me a page that looks like this" and get pixel-perfect UI that actually matches.
